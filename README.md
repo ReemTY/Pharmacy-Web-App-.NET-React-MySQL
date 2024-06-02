@@ -26,7 +26,7 @@ A captivating and useful pharmaceutical web app designed to streamline pharmacy 
 ### Backend Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pharmacy-web-app.git
+   git clone https://github.com/ReemTY/Pharmacy-Web-App-.NET-React-MySQL.git
    ```
 2. **Navigate to the backend directory**:
    ```bash
