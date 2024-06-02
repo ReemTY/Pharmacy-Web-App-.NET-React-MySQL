@@ -40,7 +40,7 @@ A captivating and useful pharmaceutical web app designed to streamline pharmacy 
    - Open `appsettings.json` and update the connection string with your MySQL database details.
    ```json
    "ConnectionStrings": {
-       "DefaultConnection": "Server=your-server;Database=your-database;User=your-username;Password=your-password;"
+           "DefaultConnection": "Server=localhost;Database=pharmacy;User=root;Password=admin;"
    }
    ```
 5. **Run the backend server**:
